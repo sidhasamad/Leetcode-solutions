@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0001-two-sum) |
+| [2427-first-letter-to-appear-twice](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [2427-first-letter-to-appear-twice](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Trie
 |  |
 | ------- |
@@ -26,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
+## Counting
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
