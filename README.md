@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0001-two-sum) |
 | [2502-sort-the-people](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0001-two-sum) |
 | [2427-first-letter-to-appear-twice](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Math
 |  |
 | ------- |
@@ -43,4 +45,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+## Two Pointers
+|  |
+| ------- |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 <!---LeetCode Topics End-->
