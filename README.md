@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2844-sum-of-squares-of-special-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
