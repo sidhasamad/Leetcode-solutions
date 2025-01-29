@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0001-two-sum) |
 | [2502-sort-the-people](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
