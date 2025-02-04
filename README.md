@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0782-jewels-and-stones](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [2427-first-letter-to-appear-twice](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2502-sort-the-people) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Enumeration
 |  |
