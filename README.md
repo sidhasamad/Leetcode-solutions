@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0782-jewels-and-stones](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0812-rotate-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2502-sort-the-people) |
 ## Trie
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0050-powx-n) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
