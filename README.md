@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [1848-sum-of-unique-elements](https://github.com/sidhasamad/Leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
 | [2502-sort-the-people](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -57,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [2502-sort-the-people](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Enumeration
