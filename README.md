@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0136-single-number) |
 | [0948-sort-an-array](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/sidhasamad/Leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
 | [2502-sort-the-people](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2502-sort-the-people) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0136-single-number) |
 | [0371-sum-of-two-integers](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [2427-first-letter-to-appear-twice](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Counting
