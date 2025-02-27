@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0371-sum-of-two-integers](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [2383-add-two-integers](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2383-add-two-integers) |
+| [2507-number-of-common-factors](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2507-number-of-common-factors) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2507-number-of-common-factors](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2507-number-of-common-factors) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0948-sort-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
