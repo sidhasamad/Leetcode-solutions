@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [0319-bulb-switcher](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [2383-add-two-integers](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2383-add-two-integers) |
 | [2507-number-of-common-factors](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2507-number-of-common-factors) |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2507-number-of-common-factors) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
