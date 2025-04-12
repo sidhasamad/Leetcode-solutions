@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3311-ant-on-the-boundary](https://github.com/sidhasamad/Leetcode-solutions/tree/master/3311-ant-on-the-boundary) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0319-bulb-switcher) |
+## Simulation
+|  |
+| ------- |
+| [3311-ant-on-the-boundary](https://github.com/sidhasamad/Leetcode-solutions/tree/master/3311-ant-on-the-boundary) |
+## Prefix Sum
+|  |
+| ------- |
+| [3311-ant-on-the-boundary](https://github.com/sidhasamad/Leetcode-solutions/tree/master/3311-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
