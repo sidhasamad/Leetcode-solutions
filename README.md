@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0136-single-number) |
 | [0948-sort-an-array](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/sidhasamad/Leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
+| [2058-concatenation-of-array](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2502-sort-the-people](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [3311-ant-on-the-boundary](https://github.com/sidhasamad/Leetcode-solutions/tree/master/3311-ant-on-the-boundary) |
 ## Prefix Sum
 |  |
