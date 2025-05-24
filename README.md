@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/sidhasamad/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [2383-add-two-integers](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2507-number-of-common-factors) |
 ## String
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2491-smallest-even-multiple](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/sidhasamad/Leetcode-solutions/tree/master/2507-number-of-common-factors) |
 ## Brainteaser
 |  |
