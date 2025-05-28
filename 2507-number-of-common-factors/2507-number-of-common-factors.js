@@ -4,11 +4,10 @@
  * @return {number}
  */
 var commonFactors = function(a, b) {
-    let count=0;
-    let common=Math.min(a,b)
-
-    for(let i=0;i<=common;i++){
-        if(a%i===0 && b%i===0){
+    let count=0
+    let min=Math.min(a,b)
+    for(let i=1;i<=min;i++){
+        if(a%i==0&&b%i==0){
             count++
         }
     }
